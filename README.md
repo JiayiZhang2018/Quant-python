@@ -6,4 +6,4 @@ This project is a collection of short python programs I wrote during the bootcam
 ## python basics
 datatypes, if-elif-else conditions, for and while loops, lists and tuples, and list comprehensions
 
-Here is my basics note book
+Here is my [basics Jupyter Notebook](http://)
